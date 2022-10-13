@@ -29,7 +29,20 @@
   <img align="center" alt="Ivi-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Ivi-Tomcat" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
   
+
   
+##
+<h1> Portfolio <h1>
+<a href=https://github.com/Ivi-SCD/Projeto-FucturaBank>
+<img align= "center" alt="Ivi-ProjectFucturaBank" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195624259-e45f0727-12a8-4c4e-ba98-a7f00ca3568d.jpg>
+<a href=https://github.com/Ivi-SCD/Chess-Game-Java>
+<img align= "center" alt="Ivi-ProjectChessGame" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195627242-8f9c7386-14fc-48f6-9b1b-9c0156576051.jpg>
+<a href=https://github.com/Ivi-SCD/project-springboot3-jpa>
+<img align= "center" alt="Ivi-ProjecSpringBoot3" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195627031-c2761e24-40ee-4247-ab50-0bceb26c2df8.png>
+<a href=https://github.com/Ivi-SCD/project-javafx-jdbc>
+<img align= "center" alt="Ivi-ProjecSpringBoot3" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195627996-7feab58a-4664-47b1-933c-008683df5d15.jpg>
+
+
 ##
 
 </div>
