@@ -43,8 +43,6 @@
 <img align= "center" alt="Ivi-ProjecSpringBoot3" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195627996-7feab58a-4664-47b1-933c-008683df5d15.jpg>
 
 
-##
-
 </div>
   <a href="https://www.instagram.com/ivii.ns/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blan">
 
