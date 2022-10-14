@@ -38,9 +38,9 @@
 <a href=https://github.com/Ivi-SCD/Chess-Game-Java>
 <img align= "center" alt="Ivi-ProjectChessGame" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195627242-8f9c7386-14fc-48f6-9b1b-9c0156576051.jpg>
 <a href=https://github.com/Ivi-SCD/project-springboot3-jpa>
-<img align= "center" alt="Ivi-ProjecSpringBoot3" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195627031-c2761e24-40ee-4247-ab50-0bceb26c2df8.png>
+<img align= "center" alt="Ivi-ProjecSpringBoot3" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195832826-830c5871-9bee-4759-b283-330f9578a4a3.jpg>
 <a href=https://github.com/Ivi-SCD/project-javafx-jdbc>
-<img align= "center" alt="Ivi-ProjecSpringBoot3" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195627996-7feab58a-4664-47b1-933c-008683df5d15.jpg>
+<img align= "center" alt="Ivi-ProjecSpringBoot3" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195832668-c42e511b-adf3-478e-aec9-ecffefbff276.jpg>
 
 
 </div>
