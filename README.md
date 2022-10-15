@@ -28,6 +28,8 @@
   <img align="center" alt="Ivi-Heroku" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
   <img align="center" alt="Ivi-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Ivi-Tomcat" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
+  <h3> Outras Ferramentas </h3>
+  <img align="center" alt="Ivi-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
 
   
@@ -44,6 +46,6 @@
 
 
 </div>
-  <a href="https://www.instagram.com/ivii.ns/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blan">
+  <a href="https://www.instagram.com/ivii.ns/" target="_blank"> <img align="center" img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blan">
 
 </div>
