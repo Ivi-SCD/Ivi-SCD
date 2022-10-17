@@ -1,38 +1,38 @@
-## Bem-vindo ao meu espaço! 
-- Atualmente estudando Java, SpringBoot e alguns bancos de dados como o MySQL e o MongoDB.
-- Tenho 18 anos e programo desde os meus 12 anos.
-- Estudando para passar em Ciências da Computação.
-
+### Welcome to my space! 👋👋
+* :office: Currently studying Java, SpringBoot and somedatabases like MySQL, OracleDB and MongoDB.
+* :balloon: Have 18 years old, and i program since was 14 years old
+* :computer: Studying to pass in Computer Science.
 
 <div align="inline_block">
   <a href="https://github.com/Ivi-SCD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivi-SCD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivi-SCD&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ivi-SCD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivi-SCD&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
-  
-  
-<div style="display": inline_block>
-  <h3> Bancos de dados </h3>
-  <img align="center" alt="Ivi-Oracle" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Ivi-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Ivi-MongoDB" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Ivi-PostgreSQL" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">   
-  <h3> Linguagens </h3>
-  <img align="center" alt="Ivi-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Ivi-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ivi-Coriginal" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <h3> Web </h3>
-  <img align="center" alt="Ivi-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ivi-Angular" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Ivi-Heroku" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
-  <img align="center" alt="Ivi-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Ivi-Tomcat" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
-  <h3> Outras Ferramentas </h3>
-  <img align="center" alt="Ivi-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  
+ 
+ 
+ ## Tools :sparkles: 
 
-  
-##
+![Oracle](https://img.shields.io/badge/-Oracle%20DB-red?logo=Oracle&logoColor=white&style=for-the-badge)
+![AngularJS](https://img.shields.io/badge/-Angular-red?logo=AngularJS&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-orange?logo=JavaScript&logoColor=white&style=for-the-badge)
+![XAMPP](https://img.shields.io/badge/-XAMPP-orange?logo=XAMPP&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-orange?logo=Postman&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-DAA520?&style=for-the-badge)
+![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-DAA520?logo=Eclipse%20IDE&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-DAA520?logo=Git&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=Python&logoColor=white&style=for-the-badge)
+![ApacheTomCat](https://img.shields.io/badge/-Apache%20Tomcat-green?logo=Apache%20Tomcat&logoColor=white&style=for-the-badge)
+![SpringBoot](https://img.shields.io/badge/-Spring-green?logo=spring&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=MongoDB&logoColor=white&style=for-the-badge)
+![VSC](https://img.shields.io/badge/-VS%20Code-blue?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-blue?logo=Amazon%20AWS&logoColor=white&style=for-the-badge)
+![Heroku](https://img.shields.io/badge/-Heroku-blue?logo=Heroku&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-white?logo=MySQL&logoColor=4479A1&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?logo=PostgreSQL&logoColor=4479A1&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-white?&logoColor=4479A1&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=4479A1&style=for-the-badge)
+![Discord](https://img.shields.io/badge/-Discord-black?logo=Discord&logoColor=4479A1&style=for-the-badge)
+
 <h1> Portfolio <h1>
 <a href=https://github.com/Ivi-SCD/Projeto-FucturaBank>
 <img align= "center" alt="Ivi-ProjectFucturaBank" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195624259-e45f0727-12a8-4c4e-ba98-a7f00ca3568d.jpg>
@@ -43,8 +43,6 @@
 <a href=https://github.com/Ivi-SCD/project-javafx-jdbc>
 <img align= "center" alt="Ivi-ProjecSpringBoot3" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195832668-c42e511b-adf3-478e-aec9-ecffefbff276.jpg>
 
+##
+<a href="https://www.instagram.com/ivii.ns/" target="_blank"> <img align="center" img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blan">
 
-</div>
-  <a href="https://www.instagram.com/ivii.ns/" target="_blank"> <img align="center" img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blan">
-
-</div>
