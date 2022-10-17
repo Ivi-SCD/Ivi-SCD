@@ -1,6 +1,6 @@
 ### Welcome to my space! 👋👋
 * :office: Currently studying Java, SpringBoot and somedatabases like MySQL, OracleDB and MongoDB.
-* :balloon: Have 18 years old, and i program since was 14 years old
+* :balloon: I'm 18 years old, and i program since was 14 years old
 * :computer: Studying to pass in Computer Science.
 * :email: Email: ivipnascimento@hotmail.com (For more contact check the end of page)
 
