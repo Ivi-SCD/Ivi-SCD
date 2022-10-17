@@ -45,5 +45,7 @@
 <img align= "center" alt="Ivi-ProjecSpringBoot3" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195832668-c42e511b-adf3-478e-aec9-ecffefbff276.jpg>
 
 ##
-<a href="https://www.instagram.com/ivii.ns/" target="_blank"> <img align="center" img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blan">
+<a href="https://www.instagram.com/ivii.ns/" target="_blank"> <img align="center" img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+<a href="https://wa.link/644gqx/" target="_blank"> <img align="center" img src="https://img.shields.io/badge/Whatsapp-white?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"> 
+<a href="https://https://www.linkedin.com/in/ivisson-pereira-b301aa250/" target="_blank"> <img align="center" img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
