@@ -15,6 +15,7 @@
 ![Oracle](https://img.shields.io/badge/-Oracle%20DB-red?logo=Oracle&logoColor=white&style=for-the-badge)
 ![AngularJS](https://img.shields.io/badge/-Angular-red?logo=AngularJS&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?logo=JavaScript&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-orange?logo=TypeScript&logoColor=white&style=for-the-badge)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-orange?logo=XAMPP&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-orange?logo=Postman&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-DAA520?&style=for-the-badge)
