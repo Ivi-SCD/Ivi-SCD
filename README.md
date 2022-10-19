@@ -50,5 +50,5 @@
 
 <a href="https://www.instagram.com/ivii.ns/" target="_blank"> <img align="center" img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 <a href="https://wa.link/644gqx/" target="_blank"> <img align="center" img src="https://img.shields.io/badge/Whatsapp-white?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"> 
-<a href="https://www.linkedin.com/in/ivisson-pereira-b301aa250/" target="_blank"> <img align="center" img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a href="www.linkedin.com/in/dev-ivi-fullstack/" target="_blank"> <img align="center" img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
