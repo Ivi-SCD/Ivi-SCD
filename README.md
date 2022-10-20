@@ -5,10 +5,14 @@
 * :email: Email: ivipnascimento@hotmail.com (For more contact check the end of page)
 
 
-<div align="inline_block">
+<div align="center">
   <a href="https://github.com/Ivi-SCD">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ivi-SCD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivi-SCD&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivi-SCD&theme=tokyonight"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ivi-SCD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivi-SCD&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=amandavsadev&theme=tokyonight&hide_border=true"/>
   </div>
  
  
