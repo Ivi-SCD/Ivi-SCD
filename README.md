@@ -1,4 +1,7 @@
-### Welcome to my space! 👋👋
+<div align="center">
+ <h2> Welcome to my space! 👋👋 </h3>
+</div>
+
 * :office: Currently studying Java, SpringBoot and somedatabases like MySQL, OracleDB and MongoDB.
 * :balloon: I'm 18 years old, and i program since was 14 years old
 * :computer: Studying to pass in Computer Science.
