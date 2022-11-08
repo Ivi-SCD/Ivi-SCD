@@ -43,16 +43,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=4479A1&style=for-the-badge)
 ![Discord](https://img.shields.io/badge/-Discord-black?logo=Discord&logoColor=4479A1&style=for-the-badge)
 
-## Portfolio
-<a href=https://github.com/Ivi-SCD/Projeto-FucturaBank>
-<img align= "center" alt="Ivi-ProjectFucturaBank" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195624259-e45f0727-12a8-4c4e-ba98-a7f00ca3568d.jpg>
-<a href=https://github.com/Ivi-SCD/Chess-Game-Java>
-<img align= "center" alt="Ivi-ProjectChessGame" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195627242-8f9c7386-14fc-48f6-9b1b-9c0156576051.jpg>
-<a href=https://github.com/Ivi-SCD/project-springboot3-jpa>
-<img align= "center" alt="Ivi-ProjecSpringBoot3" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195832826-830c5871-9bee-4759-b283-330f9578a4a3.jpg>
-<a href=https://github.com/Ivi-SCD/project-javafx-jdbc>
-<img align= "center" alt="Ivi-ProjecSpringBoot3" height="120em" width="120em" src=https://user-images.githubusercontent.com/81643916/195832668-c42e511b-adf3-478e-aec9-ecffefbff276.jpg>
-
 ##
 <a href="https://www.instagram.com/ivii.ns/" target="_blank"> <img align="center" img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 <a href="https://wa.link/644gqx/" target="_blank"> <img align="center" img src="https://img.shields.io/badge/Whatsapp-white?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"> 
