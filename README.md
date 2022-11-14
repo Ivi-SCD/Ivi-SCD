@@ -32,7 +32,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=MongoDB&logoColor=white&style=for-the-badge)
 ![VSC](https://img.shields.io/badge/-VS%20Code-blue?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-blue?logo=Amazon%20AWS&logoColor=white&style=for-the-badge)
-![Heroku](https://img.shields.io/badge/-Heroku-blue?logo=Heroku&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?logo=MySQL&logoColor=4479A1&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?logo=PostgreSQL&logoColor=4479A1&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-white?&logoColor=4479A1&style=for-the-badge)
